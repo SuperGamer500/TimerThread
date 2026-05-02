@@ -70,7 +70,7 @@ goto fail
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\TimerThread-1.0-SNAPSHOT.jar
+set CLASSPATH=%APP_HOME%\lib\TimerThread-1.0.jar
 
 
 @rem Execute TimerThread
